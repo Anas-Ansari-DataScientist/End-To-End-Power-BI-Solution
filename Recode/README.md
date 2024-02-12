@@ -1,4 +1,4 @@
-![image](https://github.com/Anas-Ansari-DataScientist/End-To-End-Power-BI-Solution/assets/54945647/1147b3be-7c04-4aab-b90a-b4c99473bb6f)**Problem Statement:**
+**Problem Statement:**
 - Decentralized approach in capturing product migration rates across regions.
 - Multiple files and complex formulas led to inconclusive messy data.
 - Hindrance to effective decision-making due to data inconsistency and complexity.
