@@ -20,4 +20,4 @@
 - Strategic thinking in devising impactful solutions.
 - Commitment to excellence in data management and analytics.
 - Recognition through the prestigious SARA award highlights successful outcomes.
-has context menu
+
