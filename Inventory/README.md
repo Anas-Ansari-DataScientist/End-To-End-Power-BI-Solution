@@ -21,3 +21,5 @@
 - A holistic approach to inventory analysis, covering various aspects of stock management.
 - Innovative features like inventory projection for forward-looking planning.
 - Successful integration into monthly planning reviews and expansion into the medical segment, demonstrating the tool's adaptability.
+
+![image](https://github.com/Anas-Ansari-DataScientist/End-To-End-Power-BI-Solution/assets/54945647/c4c7f7a4-a118-4c2e-8557-bbed98548f9d)
